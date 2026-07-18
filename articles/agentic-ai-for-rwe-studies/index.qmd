@@ -1,0 +1,82 @@
+---
+title: "Agentic AI for automating real-world evidence studies"
+description: "What actually works when you point coding agents at observational study delivery — where automation helps, where it doesn't, and what has to stay human."
+date: 2026-07-18
+date-modified: 2026-07-18
+categories: [real-world evidence, agentic AI, automation]
+author: "Sam Hillman"
+draft: true
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Agentic AI for automating real-world evidence studies",
+        "description": "What actually works when you point coding agents at observational study delivery.",
+        "datePublished": "2026-07-18",
+        "author": {
+          "@type": "Person",
+          "name": "Sam Hillman",
+          "url": "https://samhillman.github.io"
+        }
+      }
+      </script>
+---
+
+::: {.callout-warning appearance="simple"}
+**Draft — skeleton only.** Remove `draft: true` from the front matter to publish.
+:::
+
+<!--
+STRUCTURE NOTE (delete before publishing)
+
+The research on AI-citability suggests: open each H2 with a direct, self-contained answer of
+roughly 40-180 words before elaborating. Question-shaped headings get quoted more often.
+Concrete numbers and named tools beat abstractions.
+-->
+
+## What does an agentic RWE pipeline actually do?
+
+*Answer-first paragraph goes here — two or three sentences that would stand alone if someone
+quoted just this bit. Something like: an agentic RWE pipeline decomposes study delivery into
+discrete, checkable steps — cohort definition, phenotyping, endpoint derivation, analysis,
+QC — and hands each to an agent with tightly scoped tools and a spec to validate against.*
+
+Points to cover:
+
+- The shape of the pipeline I co-designed: what the stages are, what hands off to what.
+- Where the specification lives, and why that matters more than the model choice.
+- What the agent is *not* allowed to touch.
+
+## Where does automation genuinely help?
+
+- Standardising phenotype and endpoint definitions across studies — the boring, repeated work
+  where inconsistency is the real cost.
+- Scaffolding analysis code from a protocol, rather than writing it from scratch each time.
+- QC and reconciliation: agents are good at checking that outputs match a spec.
+- Turnaround time on ad-hoc requests from medical teams.
+
+## Where does it fall down?
+
+- Study design decisions — the judgement calls about confounding, index dates, and eligibility
+  that determine whether the answer is right.
+- Data quirks that aren't documented anywhere and only a human who has worked the dataset
+  knows about.
+- Anything where being confidently wrong is expensive: regulatory submissions, external
+  control arms.
+
+## What has to stay human?
+
+*The accountability argument. Reviewers and regulators need a named person who can defend the
+design. Automation moves where the human attention goes; it doesn't remove the need for it.*
+
+## Practical setup
+
+- Tooling: what I actually use day to day.
+- How specs and protocols are written so an agent can act on them.
+- Guardrails: version control, deterministic re-runs, freezing outputs, review gates.
+
+## What I'd tell a team starting this
+
+*Closing section — three or four concrete recommendations.*

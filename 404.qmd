@@ -1,0 +1,9 @@
+---
+title: "Page not found"
+description: "The requested page could not be found."
+---
+
+That page doesn't exist — it may have moved, or the link may be wrong.
+
+Try the [home page](/), [publications](/publications.html), [articles](/articles/), or
+[CV](/cv.html).

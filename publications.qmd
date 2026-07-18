@@ -1,0 +1,78 @@
+---
+title: "Publications"
+description: "Peer-reviewed publications by Sam Hillman in oncology real-world evidence and COVID-19 epidemiology, including work in The Lancet Respiratory Medicine, Nature Communications, and JCO Precision Oncology."
+---
+
+A full and current list is on
+[Google Scholar](https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ) and
+[ORCID](https://orcid.org/0000-0003-0267-4837).
+
+## Journal articles
+
+::: {.pub-list}
+
+1. Franzen S, Chandakas V, **Hillman S**, Rhodes K, Nordon C.
+   Filling the gaps in health data: using a machine learning approach to augment partially
+   observed variables such as smoking in claims data.
+   [*Pharmacoepidemiology and Drug Safety*]{.pub-venue}, 2026.
+   [doi:10.1002/pds.70322](https://doi.org/10.1002/pds.70322)
+
+2. Collin SM, **Hillman S**, Shah CH, Tank R, Bhave M, Traina TA.
+   Real-world treatment patterns and outcomes for patients with metastatic triple-negative
+   breast cancer in the United States.
+   [*JCO Oncology Practice*]{.pub-venue}, 2026.
+   [doi:10.1200/OP-25-00822](https://doi.org/10.1200/op-25-00822)
+
+2. Yadav S, Couch FJ, **Hillman S**, Luo L, Li W, Li Q, Hayes JF, Earla JR, Xu X.
+   Real-world germline *BRCA* testing, poly(ADP-ribose) polymerase inhibitor utilization,
+   and survival outcomes in HER2-negative metastatic breast cancer.
+   [*JCO Precision Oncology*]{.pub-venue}, 2025.
+   [doi:10.1200/PO-24-00814](https://doi.org/10.1200/po-24-00814)
+
+3. Goulding A, McQuaid F, Lindsay L, Agrawal U, **Hillman S**, et al.
+   Confirmed SARS-CoV-2 infection in Scottish neonates 2020–2022: a national,
+   population-based cohort study.
+   [*Archives of Disease in Childhood – Fetal and Neonatal Edition*]{.pub-venue}, 2023.
+   [doi:10.1136/archdischild-2022-324713](https://doi.org/10.1136/archdischild-2022-324713)
+
+4. Calvert C, Carruthers J, Denny C, Donaghy J, **Hillman S**, Hopcroft LEM, et al.
+   A population-based matched cohort study of early pregnancy outcomes following COVID-19
+   vaccination and SARS-CoV-2 infection.
+   [*Nature Communications*]{.pub-venue}, 2022.
+   [doi:10.1038/s41467-022-33937-y](https://doi.org/10.1038/s41467-022-33937-y)
+
+5. Stock SJ, Moore E, Calvert C, Carruthers J, Denny C, Donaghy J, **Hillman S**, et al.
+   Pregnancy outcomes after SARS-CoV-2 infection in periods dominated by delta and omicron
+   variants in Scotland: a population-based cohort study.
+   [*The Lancet Respiratory Medicine*]{.pub-venue}, 2022.
+   [doi:10.1016/S2213-2600(22)00360-5](https://doi.org/10.1016/s2213-2600(22)00360-5)
+
+6. Kerr S, Robertson C, **Hillman S**, Grange Z, Sullivan C, Sheikh A.
+   Severity of BA.2 variant and vaccine effectiveness against symptomatic disease in Scotland.
+   [*The Lancet Regional Health – Europe*]{.pub-venue}, 2022.
+   [doi:10.1016/j.lanepe.2022.100533](https://doi.org/10.1016/j.lanepe.2022.100533)
+
+:::
+
+## Selected conference abstracts
+
+::: {.pub-list}
+
+1. Traina TA, **Hillman S**, Bhave M, Shah C, et al.
+   Real-world treatment patterns and clinical outcomes for patients with metastatic
+   triple-negative breast cancer.
+   [San Antonio Breast Cancer Symposium (SABCS)]{.pub-venue}, 2024.
+   [doi:10.1158/1557-3265.SABCS24-P3-08-10](https://doi.org/10.1158/1557-3265.sabcs24-p3-08-10)
+
+2. Mayer EL, Collin SM, **Hillman S**, Berrocal-Almanza LC, Sparano JA, et al.
+   Treatment patterns and clinical outcomes in HER2-low metastatic breast cancer, 2018–2023:
+   a retrospective observational study.
+   [*JCO Oncology Practice* (ASCO Quality Care Symposium)]{.pub-venue}, 2024.
+   [doi:10.1200/OP.2024.20.10_suppl.398](https://doi.org/10.1200/op.2024.20.10_suppl.398)
+
+3. Yadav S, Couch F, Li Q, **Hillman S**, Luo L, Hayes J, Mishkin KE, Xu X.
+   Real-world tumor *BRCA* testing patterns and PARP inhibitor use in HER2-negative
+   metastatic breast cancer.
+   [*Journal of Clinical Oncology* (ASCO Annual Meeting)]{.pub-venue}, 2024.
+
+:::

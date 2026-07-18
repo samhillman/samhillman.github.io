@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - robots.txt
+
+website:
+  title: "Sam Hillman"
+  site-url: https://samhillman.github.io
+  description: "Sam Hillman is a real-world evidence (RWE) and AI scientist working in oncology drug development, specialising in observational study design, causal inference, and agentic AI for automated evidence generation."
+  image: images/profile.jpg
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+  llms-txt: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: articles/index.qmd
+        text: Articles
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/samhillman
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samghillman
+        aria-label: LinkedIn
+  page-footer:
+    center: |
+      © 2026 Sam Hillman &nbsp;·&nbsp; [GitHub](https://github.com/samhillman) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/samghillman) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0003-0267-4837)
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    canonical-url: true
+    toc: false
+    anchor-sections: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

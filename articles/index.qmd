@@ -1,0 +1,15 @@
+---
+title: "Articles"
+description: "Articles by Sam Hillman on real-world evidence, causal inference, agentic AI, and applying machine learning to observational health data."
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  categories: true
+  date-format: "MMMM YYYY"
+  feed:
+    type: partial
+    items: 20
+page-layout: full
+---

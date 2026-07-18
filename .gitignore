@@ -1,4 +1,7 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+/_site/
+/.quarto/
+.Rproj.user
+.Rhistory
+.RData
+
+**/*.quarto_ipynb

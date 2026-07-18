@@ -1,0 +1,105 @@
+---
+title: "Sam Hillman"
+description: "Real-world evidence and AI scientist in oncology drug development — observational study design, causal inference, and agentic AI."
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sghillman@gmail.com
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0267-4837
+    - icon: github
+      text: GitHub
+      href: https://github.com/samhillman
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samghillman
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "mainEntity": {
+          "@type": "Person",
+          "name": "Sam Hillman",
+          "givenName": "Sam",
+          "familyName": "Hillman",
+          "jobTitle": "Real-World Evidence Associate Director",
+          "description": "Real-world evidence and AI scientist in oncology drug development, specialising in observational study design, causal inference, and agentic AI for automated evidence generation.",
+          "url": "https://samhillman.github.io",
+          "image": "https://samhillman.github.io/images/profile.jpg",
+          "email": "mailto:sghillman@gmail.com",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "AstraZeneca"
+          },
+          "alumniOf": [
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "University of Edinburgh"
+            },
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "Cardiff University"
+            }
+          ],
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Barcelona, Spain"
+          },
+          "knowsAbout": [
+            "Real-world evidence",
+            "Pharmacoepidemiology",
+            "Causal inference",
+            "Target trial emulation",
+            "External control arms",
+            "Oncology",
+            "Agentic AI",
+            "R programming",
+            "Electronic health records"
+          ],
+          "sameAs": [
+            "https://orcid.org/0000-0003-0267-4837",
+            "https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ",
+            "https://github.com/samhillman",
+            "https://www.linkedin.com/in/samghillman"
+          ]
+        }
+      }
+      </script>
+---
+
+I'm a real-world evidence (RWE) and AI scientist working in oncology drug development. I'm an
+RWE Associate Director at AstraZeneca in Barcelona, within Clinical Data Sciences in Oncology
+Data Science and AI, where I lead real-world epidemiology across women's cancers — breast,
+ovarian, and endometrial.
+
+Most of my work is about generating regulatory-relevant evidence from electronic health record
+and claims data: designing and delivering observational studies and external control arms, and
+applying causal inference methods — target trial emulation, propensity-score matching, IPTW,
+clone-censor-weight — to contextualise clinical trials and inform investment and regulatory
+decisions.
+
+Alongside that, I work on the applied use of AI in evidence generation. I co-designed an
+end-to-end agentic pipeline for automated RWE analyses, and I lead AI-development training for
+my team. I hold a PhD from the University of Edinburgh on resource-mediated effects in wild
+wood mouse networks, which combined fieldwork with social network analysis, parasite
+epidemiology, and statistical modelling — the observational-data problems turn out to rhyme
+more than you'd expect.
+
+I've published in *The Lancet Respiratory Medicine*, *Nature Communications*, *The Lancet
+Regional Health – Europe*, and *JCO Precision Oncology*, and I work primarily in R.
+
+::: {.callout-note appearance="simple"}
+I'm based in Barcelona, Spain. The best way to reach me is by
+[email](mailto:sghillman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samghillman).
+:::
