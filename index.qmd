@@ -92,7 +92,7 @@ possible, and designing AI-ready data pipelines, internal tooling, and agentic f
 
 Before industry, I was a post-doctoral data analyst working on the COVID response in Scotland.
 I hold a PhD from the University of Edinburgh in Ecology and Evolutionary Biology, where I
-worked on wild wood mice — social network analysis, parasite epidemiology, and statistical
+worked on wild wood mice: social network analysis, parasite epidemiology, and statistical
 modelling.
 
 I've published in *The Lancet Respiratory Medicine*, *Nature Communications*, *The Lancet
