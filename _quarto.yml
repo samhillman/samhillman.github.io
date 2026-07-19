@@ -3,10 +3,11 @@ project:
   output-dir: _site
   resources:
     - robots.txt
+    - CNAME
 
 website:
   title: "Sam Hillman"
-  site-url: https://samhillman.github.io
+  site-url: https://samhillman.com
   description: "Sam Hillman is a real-world evidence (RWE) and AI scientist working in oncology drug development, specialising in observational study design, causal inference, and agentic AI for automated evidence generation."
   image: images/profile.jpg
   favicon: images/favicon.png

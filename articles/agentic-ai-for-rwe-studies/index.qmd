@@ -18,7 +18,7 @@ include-in-header:
         "author": {
           "@type": "Person",
           "name": "Sam Hillman",
-          "url": "https://samhillman.github.io"
+          "url": "https://samhillman.com"
         }
       }
       </script>

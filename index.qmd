@@ -35,8 +35,8 @@ include-in-header:
           "familyName": "Hillman",
           "jobTitle": "Real-World Evidence Associate Director",
           "description": "Real-world evidence and AI scientist in oncology drug development, specialising in observational study design, causal inference, and agentic AI for automated evidence generation.",
-          "url": "https://samhillman.github.io",
-          "image": "https://samhillman.github.io/images/profile.jpg",
+          "url": "https://samhillman.com",
+          "image": "https://samhillman.com/images/profile.jpg",
           "email": "mailto:sghillman@gmail.com",
           "worksFor": {
             "@type": "Organization",
