@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Hillman",
     "section": "",
-    "text": "A full and current list is on Google Scholar and ORCID."
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "Journal articles",
-    "text": "Journal articles\n\n\nFranzen S, Chandakas V, Hillman S, Rhodes K, Nordon C. Filling the gaps in health data: using a machine learning approach to augment partially observed variables such as smoking in claims data. Pharmacoepidemiology and Drug Safety, 2026. doi:10.1002/pds.70322\nCollin SM, Hillman S, Shah CH, Tank R, Bhave M, Traina TA. Real-world treatment patterns and outcomes for patients with metastatic triple-negative breast cancer in the United States. JCO Oncology Practice, 2026. doi:10.1200/OP-25-00822\nYadav S, Couch FJ, Hillman S, Luo L, Li W, Li Q, Hayes JF, Earla JR, Xu X. Real-world germline BRCA testing, poly(ADP-ribose) polymerase inhibitor utilization, and survival outcomes in HER2-negative metastatic breast cancer. JCO Precision Oncology, 2025. doi:10.1200/PO-24-00814\nGoulding A, McQuaid F, Lindsay L, Agrawal U, Hillman S, et al. Confirmed SARS-CoV-2 infection in Scottish neonates 2020–2022: a national, population-based cohort study. Archives of Disease in Childhood – Fetal and Neonatal Edition, 2023. doi:10.1136/archdischild-2022-324713\nCalvert C, Carruthers J, Denny C, Donaghy J, Hillman S, Hopcroft LEM, et al. A population-based matched cohort study of early pregnancy outcomes following COVID-19 vaccination and SARS-CoV-2 infection. Nature Communications, 2022. doi:10.1038/s41467-022-33937-y\nStock SJ, Moore E, Calvert C, Carruthers J, Denny C, Donaghy J, Hillman S, et al. Pregnancy outcomes after SARS-CoV-2 infection in periods dominated by delta and omicron variants in Scotland: a population-based cohort study. The Lancet Respiratory Medicine, 2022. doi:10.1016/S2213-2600(22)00360-5\nKerr S, Robertson C, Hillman S, Grange Z, Sullivan C, Sheikh A. Severity of BA.2 variant and vaccine effectiveness against symptomatic disease in Scotland. The Lancet Regional Health – Europe, 2022. doi:10.1016/j.lanepe.2022.100533"
-  },
-  {
-    "objectID": "publications.html#selected-conference-abstracts",
-    "href": "publications.html#selected-conference-abstracts",
-    "title": "Publications",
-    "section": "Selected conference abstracts",
-    "text": "Selected conference abstracts\n\n\nTraina TA, Hillman S, Bhave M, Shah C, et al. Real-world treatment patterns and clinical outcomes for patients with metastatic triple-negative breast cancer. San Antonio Breast Cancer Symposium (SABCS), 2024. doi:10.1158/1557-3265.SABCS24-P3-08-10\nMayer EL, Collin SM, Hillman S, Berrocal-Almanza LC, Sparano JA, et al. Treatment patterns and clinical outcomes in HER2-low metastatic breast cancer, 2018–2023: a retrospective observational study. JCO Oncology Practice (ASCO Quality Care Symposium), 2024. doi:10.1200/OP.2024.20.10_suppl.398\nYadav S, Couch F, Li Q, Hillman S, Luo L, Hayes J, Mishkin KE, Xu X. Real-world tumor BRCA testing patterns and PARP inhibitor use in HER2-negative metastatic breast cancer. Journal of Clinical Oncology (ASCO Annual Meeting), 2024."
+    "text": "I’m a real-world evidence (RWE) and AI scientist working in oncology drug development. I’m an RWE Associate Director at AstraZeneca in Barcelona, within Clinical Data Sciences in Oncology Data Science and AI, where I lead real-world epidemiology across women’s cancers — breast, ovarian, and endometrial.\nMost of my work is about generating regulatory-relevant evidence from electronic health record and claims data: designing and delivering observational studies and external control arms, and applying causal inference methods — target trial emulation, propensity-score matching, IPTW, clone-censor-weight — to contextualise clinical trials and inform investment and regulatory decisions.\nAlongside that, I work on the applied use of AI in evidence generation. I co-designed an end-to-end agentic pipeline for automated RWE analyses, and I lead AI-development training for my team. I hold a PhD from the University of Edinburgh on resource-mediated effects in wild wood mouse networks, which combined fieldwork with social network analysis, parasite epidemiology, and statistical modelling — the observational-data problems turn out to rhyme more than you’d expect.\nI’ve published in The Lancet Respiratory Medicine, Nature Communications, The Lancet Regional Health – Europe, and JCO Precision Oncology, and I work primarily in R.\n\n\n\n\n\n\nI’m based in Barcelona, Spain. The best way to reach me is by email or LinkedIn."
   },
   {
     "objectID": "cv.html",
@@ -56,17 +42,31 @@
     "text": "Selected talks\n\nSpace-use and contact network structure in wild wood mice. International Society for Behavioural Ecology (ISBE) 2022, Stockholm.\nWhere the wild mice are: combining multiple data sources to test how resource distribution changes space-use and contact networks. ASAB Easter Meeting 2021.\n\nSee Publications for peer-reviewed work and conference abstracts."
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A full and current list is on Google Scholar and ORCID."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\nFranzen S, Chandakas V, Hillman S, Rhodes K, Nordon C. Filling the gaps in health data: using a machine learning approach to augment partially observed variables such as smoking in claims data. Pharmacoepidemiology and Drug Safety, 2026. doi:10.1002/pds.70322\nCollin SM, Hillman S, Shah CH, Tank R, Bhave M, Traina TA. Real-world treatment patterns and outcomes for patients with metastatic triple-negative breast cancer in the United States. JCO Oncology Practice, 2026. doi:10.1200/OP-25-00822\nYadav S, Couch FJ, Hillman S, Luo L, Li W, Li Q, Hayes JF, Earla JR, Xu X. Real-world germline BRCA testing, poly(ADP-ribose) polymerase inhibitor utilization, and survival outcomes in HER2-negative metastatic breast cancer. JCO Precision Oncology, 2025. doi:10.1200/PO-24-00814\nGoulding A, McQuaid F, Lindsay L, Agrawal U, Hillman S, et al. Confirmed SARS-CoV-2 infection in Scottish neonates 2020–2022: a national, population-based cohort study. Archives of Disease in Childhood – Fetal and Neonatal Edition, 2023. doi:10.1136/archdischild-2022-324713\nCalvert C, Carruthers J, Denny C, Donaghy J, Hillman S, Hopcroft LEM, et al. A population-based matched cohort study of early pregnancy outcomes following COVID-19 vaccination and SARS-CoV-2 infection. Nature Communications, 2022. doi:10.1038/s41467-022-33937-y\nStock SJ, Moore E, Calvert C, Carruthers J, Denny C, Donaghy J, Hillman S, et al. Pregnancy outcomes after SARS-CoV-2 infection in periods dominated by delta and omicron variants in Scotland: a population-based cohort study. The Lancet Respiratory Medicine, 2022. doi:10.1016/S2213-2600(22)00360-5\nKerr S, Robertson C, Hillman S, Grange Z, Sullivan C, Sheikh A. Severity of BA.2 variant and vaccine effectiveness against symptomatic disease in Scotland. The Lancet Regional Health – Europe, 2022. doi:10.1016/j.lanepe.2022.100533"
+  },
+  {
+    "objectID": "publications.html#selected-conference-abstracts",
+    "href": "publications.html#selected-conference-abstracts",
+    "title": "Publications",
+    "section": "Selected conference abstracts",
+    "text": "Selected conference abstracts\n\n\nTraina TA, Hillman S, Bhave M, Shah C, et al. Real-world treatment patterns and clinical outcomes for patients with metastatic triple-negative breast cancer. San Antonio Breast Cancer Symposium (SABCS), 2024. doi:10.1158/1557-3265.SABCS24-P3-08-10\nMayer EL, Collin SM, Hillman S, Berrocal-Almanza LC, Sparano JA, et al. Treatment patterns and clinical outcomes in HER2-low metastatic breast cancer, 2018–2023: a retrospective observational study. JCO Oncology Practice (ASCO Quality Care Symposium), 2024. doi:10.1200/OP.2024.20.10_suppl.398\nYadav S, Couch F, Li Q, Hillman S, Luo L, Hayes J, Mishkin KE, Xu X. Real-world tumor BRCA testing patterns and PARP inhibitor use in HER2-negative metastatic breast cancer. Journal of Clinical Oncology (ASCO Annual Meeting), 2024."
+  },
+  {
     "objectID": "articles/index.html",
     "href": "articles/index.html",
     "title": "Articles",
     "section": "",
     "text": "No matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sam Hillman",
-    "section": "",
-    "text": "I’m a real-world evidence (RWE) and AI scientist working in oncology drug development. I’m an RWE Associate Director at AstraZeneca in Barcelona, within Clinical Data Sciences in Oncology Data Science and AI, where I lead real-world epidemiology across women’s cancers — breast, ovarian, and endometrial.\nMost of my work is about generating regulatory-relevant evidence from electronic health record and claims data: designing and delivering observational studies and external control arms, and applying causal inference methods — target trial emulation, propensity-score matching, IPTW, clone-censor-weight — to contextualise clinical trials and inform investment and regulatory decisions.\nAlongside that, I work on the applied use of AI in evidence generation. I co-designed an end-to-end agentic pipeline for automated RWE analyses, and I lead AI-development training for my team. I hold a PhD from the University of Edinburgh on resource-mediated effects in wild wood mouse networks, which combined fieldwork with social network analysis, parasite epidemiology, and statistical modelling — the observational-data problems turn out to rhyme more than you’d expect.\nI’ve published in The Lancet Respiratory Medicine, Nature Communications, The Lancet Regional Health – Europe, and JCO Precision Oncology, and I work primarily in R.\n\n\n\n\n\n\nI’m based in Barcelona, Spain. The best way to reach me is by email or LinkedIn."
   }
 ]
