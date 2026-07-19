@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A full and current list is on Google Scholar and ORCID."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\nFranzen S, Chandakas V, Hillman S, Rhodes K, Nordon C. Filling the gaps in health data: using a machine learning approach to augment partially observed variables such as smoking in claims data. Pharmacoepidemiology and Drug Safety, 2026. doi:10.1002/pds.70322\nCollin SM, Hillman S, Shah CH, Tank R, Bhave M, Traina TA. Real-world treatment patterns and outcomes for patients with metastatic triple-negative breast cancer in the United States. JCO Oncology Practice, 2026. doi:10.1200/OP-25-00822\nYadav S, Couch FJ, Hillman S, Luo L, Li W, Li Q, Hayes JF, Earla JR, Xu X. Real-world germline BRCA testing, poly(ADP-ribose) polymerase inhibitor utilization, and survival outcomes in HER2-negative metastatic breast cancer. JCO Precision Oncology, 2025. doi:10.1200/PO-24-00814\nGoulding A, McQuaid F, Lindsay L, Agrawal U, Hillman S, et al. Confirmed SARS-CoV-2 infection in Scottish neonates 2020–2022: a national, population-based cohort study. Archives of Disease in Childhood – Fetal and Neonatal Edition, 2023. doi:10.1136/archdischild-2022-324713\nCalvert C, Carruthers J, Denny C, Donaghy J, Hillman S, Hopcroft LEM, et al. A population-based matched cohort study of early pregnancy outcomes following COVID-19 vaccination and SARS-CoV-2 infection. Nature Communications, 2022. doi:10.1038/s41467-022-33937-y\nStock SJ, Moore E, Calvert C, Carruthers J, Denny C, Donaghy J, Hillman S, et al. Pregnancy outcomes after SARS-CoV-2 infection in periods dominated by delta and omicron variants in Scotland: a population-based cohort study. The Lancet Respiratory Medicine, 2022. doi:10.1016/S2213-2600(22)00360-5\nKerr S, Robertson C, Hillman S, Grange Z, Sullivan C, Sheikh A. Severity of BA.2 variant and vaccine effectiveness against symptomatic disease in Scotland. The Lancet Regional Health – Europe, 2022. doi:10.1016/j.lanepe.2022.100533"
+  },
+  {
+    "objectID": "publications.html#selected-conference-abstracts",
+    "href": "publications.html#selected-conference-abstracts",
+    "title": "Publications",
+    "section": "Selected conference abstracts",
+    "text": "Selected conference abstracts\n\n\nTraina TA, Hillman S, Bhave M, Shah C, et al. Real-world treatment patterns and clinical outcomes for patients with metastatic triple-negative breast cancer. San Antonio Breast Cancer Symposium (SABCS), 2024. doi:10.1158/1557-3265.SABCS24-P3-08-10\nMayer EL, Collin SM, Hillman S, Berrocal-Almanza LC, Sparano JA, et al. Treatment patterns and clinical outcomes in HER2-low metastatic breast cancer, 2018–2023: a retrospective observational study. JCO Oncology Practice (ASCO Quality Care Symposium), 2024. doi:10.1200/OP.2024.20.10_suppl.398\nYadav S, Couch F, Li Q, Hillman S, Luo L, Hayes J, Mishkin KE, Xu X. Real-world tumor BRCA testing patterns and PARP inhibitor use in HER2-negative metastatic breast cancer. Journal of Clinical Oncology (ASCO Annual Meeting), 2024."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I’m a real-world evidence (RWE) and AI scientist with over five years’ experience generating regulatory-relevant evidence across the drug development lifecycle. My work combines observational study design and causal inference — target trial emulation, external control arms, comparative effectiveness — with the applied use of AI and machine learning to accelerate and standardise evidence generation. I’m based in Barcelona, Spain."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nRWE Associate Director\nAstraZeneca, Barcelona · February 2025 – present\nLeading real-world epidemiology across women’s cancers (breast, ovarian, endometrial) within Clinical Data Sciences, Oncology Data Science and AI, in Oncology R&D.\n\nShaping RWE generation strategies supporting phase II/III pipeline investment decisions and regulatory strategy, partnering with R&D, Clinical Science, and Global Medical Affairs.\nDesigning and delivering observational studies and external control arms, applying target trial emulation, propensity-score matching, IPTW, and clone-censor-weight methods to contextualise clinical trial and competitor results.\nCo-designed an end-to-end agentic AI pipeline for automated RWE analyses, accelerating study delivery and standardising phenotyping, endpoint definition, and analytical workflows.\nLeading Claude Code and AI-development training for the team and line management, and mentoring a colleague in agentic AI development.\nParticipating in AstraZeneca’s AI Explorers programme, contributing to enterprise efforts to evaluate and embed AI across evidence-generation workflows.\n\n\n\nPrincipal RWE Statistical Programmer\nDaiichi Sankyo UK, London (remote) · July 2024 – February 2025\nFirst EU hire for the US-based RWE programming team, working internationally across functions on metastatic breast cancer and advanced non-small cell lung cancer.\n\nServed as statistical programming study lead, collaborating with biostatisticians, clinical scientists, and programmers to deliver tables, figures, and listings using Flatiron, ConcertAI, and CPRD data (as a nominated CPRD user).\nBuilt and deployed internal tooling to expedite study development: R Shiny applications, R packages, and data pipelines — standardising cohort-identification algorithms (e.g. HER2-low populations) and automating TFL production and patient-journey viewers.\nAdvised on data source selection and cohort generation, and built cross-functional relationships across biometrics, medical evidence, and HEOR.\n\n\n\nRWE Data Scientist (contract)\nAstraZeneca, Cambridge (remote) · September 2022 – July 2024\nWorking with Global Medical Affairs and Clinical Scientist teams in oncology (primarily breast cancer) to address key evidence gaps.\n\nLed multiple concurrent RWE studies from protocol design through analysis to publication, using large EHR and claims datasets (Flatiron, Tempus, ConcertAI) in R and SQL.\nAdvised on statistical protocols and evaluated data assets for fitness-for-purpose across study designs, contributing to data source recommendations for new research programmes.\nProvided R subject-matter expertise within a mixed R and SAS programming team, and mentored analysts across simultaneous oncology studies.\nRecognised with multiple internal AstraZeneca “spotlight” awards for performance and stakeholder feedback.\n\n\n\nPost-doctoral Data Analyst, EAVE II\nUsher Institute, University of Edinburgh · March 2022 – September 2022\nWorking with large, confidential NHS EHR datasets in a secure environment — developing protocols, implementing epidemiological models and matching algorithms, and communicating results through presentations and academic papers.\n\nCOVID-19 in Pregnancy in Scotland (COPS): reproductive epidemiology and data analysis on maternal health and outcomes.\nEAVE II: disease forecasting, statistical and mathematical modelling.\n\n\n\nClinical Studies Administrator / Assistant\nWales Cancer Trials Unit, Centre for Trials Research · 2016 – 2017, 2019 (part-time)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD, Ecology and Evolutionary Biology\nUniversity of Edinburgh · 2019 – 2025 (viva defence completed; awarded 2026)\nThesis on resource-mediated effects on wild wood mouse networks, behaviour, and demographics — combining fieldwork with social network analysis, parasite epidemiology, observational data, and statistical and mathematical modelling. Developed pipelines for processing large-scale remote sensing data. Fully funded through NERC and the E4 Doctoral Training Programme.\n\n\nBSc (Hons) Biological Sciences (Ecology), First Class\nCardiff University · 2015 – 2019\nSpecialising in infection biology and epidemiology, systems biology and modelling, and global change biology. Awarded the school prize for best dissertation research. Included a placement year."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\nAnalysis\nR (expert), SQL (proficient), Python, SAS\n\n\nMethods\nTarget trial emulation, propensity-score matching, IPTW, clone-censor-weight, comparative effectiveness, longitudinal modelling, social network analysis\n\n\nData sources\nFlatiron, CPRD (Aurum and Gold), ConcertAI, Tempus, Optum\n\n\nEngineering\nR Shiny, R package development, Git, PostgreSQL, AWS Redshift, Snowflake\n\n\nVisualisation\nggplot2, base R\n\n\nAI\nAgentic pipelines, Claude Code, LLM-driven analysis workflows"
+  },
+  {
+    "objectID": "cv.html#selected-talks",
+    "href": "cv.html#selected-talks",
+    "title": "CV",
+    "section": "Selected talks",
+    "text": "Selected talks\n\nSpace-use and contact network structure in wild wood mice. International Society for Behavioural Ecology (ISBE) 2022, Stockholm.\nWhere the wild mice are: combining multiple data sources to test how resource distribution changes space-use and contact networks. ASAB Easter Meeting 2021.\n\nSee Publications for peer-reviewed work and conference abstracts."
+  },
+  {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Hillman",
+    "section": "",
+    "text": "I’m a real-world evidence (RWE) and AI scientist working in oncology drug development. I’m an RWE Associate Director at AstraZeneca in Barcelona, within Clinical Data Sciences in Oncology Data Science and AI, where I lead real-world epidemiology across women’s cancers — breast, ovarian, and endometrial.\nMost of my work is about generating regulatory-relevant evidence from electronic health record and claims data: designing and delivering observational studies and external control arms, and applying causal inference methods — target trial emulation, propensity-score matching, IPTW, clone-censor-weight — to contextualise clinical trials and inform investment and regulatory decisions.\nAlongside that, I work on the applied use of AI in evidence generation. I co-designed an end-to-end agentic pipeline for automated RWE analyses, and I lead AI-development training for my team. I hold a PhD from the University of Edinburgh on resource-mediated effects in wild wood mouse networks, which combined fieldwork with social network analysis, parasite epidemiology, and statistical modelling — the observational-data problems turn out to rhyme more than you’d expect.\nI’ve published in The Lancet Respiratory Medicine, Nature Communications, The Lancet Regional Health – Europe, and JCO Precision Oncology, and I work primarily in R.\n\n\n\n\n\n\nI’m based in Barcelona, Spain. The best way to reach me is by email or LinkedIn."
+  }
+]

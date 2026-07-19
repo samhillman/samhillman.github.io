@@ -1,0 +1,10 @@
+# Sam Hillman
+
+> Sam Hillman is a real-world evidence (RWE) and AI scientist working in oncology drug development, specialising in observational study design, causal inference, and agentic AI for automated evidence generation.
+
+## Pages
+
+- [Publications](https://samhillman.github.io/publications.llms.md)
+- [CV](https://samhillman.github.io/cv.llms.md)
+- [Articles](https://samhillman.github.io/articles/index.llms.md)
+- [Sam Hillman](https://samhillman.github.io/index.llms.md)
