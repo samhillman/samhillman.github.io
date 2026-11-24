@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [Sam Hillman](https://samhillman.github.io/index.llms.md)
-- [CV](https://samhillman.github.io/cv.llms.md)
-- [Publications](https://samhillman.github.io/publications.llms.md)
-- [Articles](https://samhillman.github.io/articles/index.llms.md)
+- [CV](https://samhillman.com/cv.llms.md)
+- [Articles](https://samhillman.com/articles/index.llms.md)
+- [Publications](https://samhillman.com/publications.llms.md)
+- [Sam Hillman](https://samhillman.com/index.llms.md)

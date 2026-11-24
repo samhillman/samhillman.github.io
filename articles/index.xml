@@ -6,15 +6,17 @@
       version="2.0">
 <channel>
 <title>Sam Hillman</title>
-<link>https://samhillman.github.io/articles/</link>
-<atom:link href="https://samhillman.github.io/articles/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://samhillman.com/articles/</link>
+<atom:link href="https://samhillman.com/articles/index.xml" rel="self" type="application/rss+xml"/>
 <description>Articles by Sam Hillman on real-world evidence, causal inference, agentic AI, and applying machine learning to observational health data.</description>
 <image>
-<url>https://samhillman.github.io/images/profile.jpg</url>
+<url>https://samhillman.com/images/profile.jpg</url>
 <title>Sam Hillman</title>
-<link>https://samhillman.github.io/articles/</link>
+<link>https://samhillman.com/articles/</link>
+<height>144</height>
+<width>144</width>
 </image>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 19 Jul 2026 10:12:45 GMT</lastBuildDate>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Tue, 24 Nov 2026 18:06:41 GMT</lastBuildDate>
 </channel>
 </rss>

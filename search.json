@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sam Hillman",
-    "section": "",
-    "text": "I’m a real-world evidence (RWE) and AI scientist working in oncology drug development. I’m an RWE Associate Director at AstraZeneca in Barcelona. I work on real-world epidemiology across women’s cancers — breast, ovarian, and endometrial — for clinical trial planning, regulatory agency submission, and health technology assessment (HTA).\nMost of my work is about generating regulatory-relevant evidence from electronic health record and claims data: designing and delivering observational studies and external control arms, and applying causal inference methods — target trial emulation, propensity-score matching, IPTW, clone-censor-weight — to contextualise clinical trials and inform investment and regulatory decisions. I work on the applied use of AI in evidence generation: automating as much as possible, and designing AI-ready data pipelines, internal tooling, and agentic frameworks.\nBefore industry, I was a post-doctoral data analyst working on the COVID response in Scotland. I hold a PhD from the University of Edinburgh in Ecology and Evolutionary Biology, where I worked on wild wood mice: social network analysis, parasite epidemiology, and statistical modelling.\nI’ve published in The Lancet Respiratory Medicine, Nature Communications, The Lancet Regional Health – Europe, and JCO Precision Oncology, and I work primarily in R.\n\n\n\n\n\n\nI’m based in Barcelona, Spain. The best way to reach me is by email or LinkedIn."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -42,6 +35,13 @@
     "text": "Selected talks\n\nSpace-use and contact network structure in wild wood mice. International Society for Behavioural Ecology (ISBE) 2022, Stockholm.\nWhere the wild mice are: combining multiple data sources to test how resource distribution changes space-use and contact networks. ASAB Easter Meeting 2021.\n\nSee Publications for peer-reviewed work and conference abstracts."
   },
   {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -63,10 +63,10 @@
     "text": "Selected conference abstracts\n\n\nTraina TA, Hillman S, Bhave M, Shah C, et al. Real-world treatment patterns and clinical outcomes for patients with metastatic triple-negative breast cancer. San Antonio Breast Cancer Symposium (SABCS), 2024. doi:10.1158/1557-3265.SABCS24-P3-08-10\nMayer EL, Collin SM, Hillman S, Berrocal-Almanza LC, Sparano JA, et al. Treatment patterns and clinical outcomes in HER2-low metastatic breast cancer, 2018–2023: a retrospective observational study. JCO Oncology Practice (ASCO Quality Care Symposium), 2024. doi:10.1200/OP.2024.20.10_suppl.398\nYadav S, Couch F, Li Q, Hillman S, Luo L, Hayes J, Mishkin KE, Xu X. Real-world tumor BRCA testing patterns and PARP inhibitor use in HER2-negative metastatic breast cancer. Journal of Clinical Oncology (ASCO Annual Meeting), 2024."
   },
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
-    "title": "Articles",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Hillman",
     "section": "",
-    "text": "No matching items"
+    "text": "I’m a real-world evidence (RWE) and AI scientist working in oncology drug development. I’m an RWE Associate Director at AstraZeneca in Barcelona. I work on real-world epidemiology across women’s cancers — breast, ovarian, and endometrial — for clinical trial planning, regulatory agency submission, and health technology assessment (HTA).\nMost of my work is about generating regulatory-relevant evidence from electronic health record and claims data: designing and delivering observational studies and external control arms, and applying causal inference methods — target trial emulation, propensity-score matching, IPTW, clone-censor-weight — to contextualise clinical trials and inform investment and regulatory decisions. I work on the applied use of AI in evidence generation: automating as much as possible, and designing AI-ready data pipelines, internal tooling, and agentic frameworks.\nBefore industry, I was a post-doctoral data analyst working on the COVID response in Scotland. I hold a PhD from the University of Edinburgh in Ecology and Evolutionary Biology, where I worked on wild wood mice: social network analysis, parasite epidemiology, and statistical modelling.\nI’ve published in The Lancet Respiratory Medicine, Nature Communications, The Lancet Regional Health – Europe, and JCO Precision Oncology, and I work primarily in R.\n\n\n\n\n\n\nI’m based in Barcelona, Spain. The best way to reach me is by email or LinkedIn."
   }
 ]
